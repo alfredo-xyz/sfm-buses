@@ -1,6 +1,6 @@
 # San Francisco Transportation by Alfredo Bermúdez
 
-San Francisco Transportation project for Thousand Eyes
+San Francisco Transportation project for ThousandEyes
 
 __Built with__
 - [React.js](https://reactjs.org/)
